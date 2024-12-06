@@ -40,7 +40,7 @@ function Input() {
       method: 'POST',
       headers: {
         Accept: 'image/png, application/json',
-        'x-api-key': 'f166712ef5f5bfce3f7631da8526ccd5275ca775', // Replace with your actual API key
+        'x-api-key': 'sandbox_f166712ef5f5bfce3f7631da8526ccd5275ca775', // Replace with your actual API key
       },
       body: form,
     };
