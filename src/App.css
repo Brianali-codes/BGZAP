@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.Logo{
+  width: 150px;
+  height: 65px;
+}
+.btn{
+  cursor: pointer;
+  font-family: Kanit,Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.btn:hover{
+  cursor: pointer;
+  color: cyan;
+}
+.heroImg{
+  width: 100%;
+  border-radius: 20px;
+}
+.Heading{
+  font-family: Kanit,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+}
+.Desc{
+  font-family: Kanit,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+.nav{
+  box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
+}
+html{
+  scroll-behavior: smooth;
+}
+.startBtn{
+  width: 200px;
+  background-color: rgb(3, 223, 3);
+  padding: 10px;
+  border-radius: 10px;
+  font-family: Kanit,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+}
+.startBtn:hover{
+  background-color: yellow;
+  transition: 0.5s;
+}
+.placeholder{
+  width: 120px;
+  border: 2px solid rgb(0, 206, 206);
+  border-radius: 15px;
+}
+.pics{
+  width: 35%;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+.SubHeading{
+  font-family: Kanit,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+}
+.AD{
+  height: 70px;
+  
+}
+.inputBg{
+  height: 400px;
+}
+.Desc2{
+  font-family: Kanit,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
