@@ -1,7 +1,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faInstagram, faGithub } from '@fortawesome/free-brands-svg-icons';
 import BuyMeACoffeeButton from "./bmc";
-import LG from '../assets/logo.png'
+import LG from '../assets/logo.svg'
 
 export default function Footer(){
 

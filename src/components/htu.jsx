@@ -1,6 +1,6 @@
-import Pic1 from '../assets/pic1.jpg'
-import Pic2 from '../assets/pic2.jpg'
-import ad from '../assets/ad.jpg'
+import Pic1 from '../assets/pic1.webp'
+import Pic2 from '../assets/pic2.webp'
+import ad from '../assets/ad.webp'
 
 export default function Htu(){
     return(
