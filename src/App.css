@@ -20,6 +20,9 @@
   font-family: Kanit,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: bold;
 }
+.menu{
+  display: none;
+}
 .Desc{
   font-family: Kanit,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 20px;
@@ -70,10 +73,82 @@ html{
 .Desc2{
   font-family: Kanit,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+#left-sect{
+  width: 33.333333%;
+}
+#right-sect{
+  width: 33.333333%;
+}
+#hi{
+  width: 33.333333%;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+.Desc3{
+  width: 33.3333%;
+}
 
-
-
-
+@media (max-width: 648px) {
+  .menu {
+    display: block; /* Visible on smaller screens */
+    margin: 10px;
+  }
+  .nav-btns{
+    display: none;
+  }
+  .Heading{
+    font-size: 50px;
+  }
+  .SubHeading{
+    font-size: 20px;
+  }
+  .Desc{
+    font-size: 18px;
+  }
+  .startBtn{
+    width: 150px;
+    height: auto;
+  }
+  #btn-container{
+    display: flex;
+    flex-direction: column;
+  }
+  .hero-section{
+    flex-direction: column;
+  }
+  .heroImg{
+    width: 100%;
+  }
+  #left-sect{
+    width: 100%;
+  }
+  #right-sect{
+    width: 100%;
+  }
+  #hi{
+    width: 100%;
+  }
+  .AD{
+    display: none;
+  }
+  .htu1{
+    flex-direction: column;
+    width: 100%;
+  }
+  .htu2{
+    flex-direction: column-reverse;
+    width: 100%;
+  }
+  .Desc3{
+    width: 100%;
+  }
+  .pics{
+    width: 100%;
+  }
+  .btn{
+    font-size: 13px;
+  }
+}
 
 
 

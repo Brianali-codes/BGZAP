@@ -18,20 +18,21 @@ export default function Hero(){
                     <p className='Desc'>Change an image background in seconds
                     No matter what background your photo currently has, with this tool you can easily Remove its background. Just pick your original image and get the result just seconds later, all 100% automatically.</p>
                 </div>
-                <div className='flex flex-row justify-center items-center gap-5'>
+                <div className='flex flex-row justify-center items-center gap-5' id='btn-container'>
                     <BuyMeACoffeeButton/>
                     <a href="#inputSection"><button className='startBtn'>Get Started</button></a>
                 </div>
                 <br />
-                <div className='w-full flex flex-row gap-3 justify-center items-center'>
-                    <div className='w-2/6 text-center'>
+                <div className='w-full flex flex-row gap-3 justify-center items-center hero-section'>
+
+                    <div className='text-center ' id='left-sect'>
                         <p className='Desc'>The left side of this image has a background of a city in Asia Using our Tool we are able to remove its background. this is 100% free</p>
                     </div>
-                    <div className='w-2/6'>
+                    <div id='hi'>
                         <img src={HS} alt="" className='heroImg'/>
                     </div>
                     
-                    <div className='w-2/6 text-center'>
+                    <div className='text-center ' id='right-sect'>
                         <p className='Desc'>This side of the image has no background thanks to our tool, In order to achieve the same effect, scroll down to get started.</p>
                     </div>
 
