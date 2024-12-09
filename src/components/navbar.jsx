@@ -37,7 +37,7 @@ export default function Navbar(){
 
                 <a href="#ABT"><button className='btn5'>About</button></a>
                 <a href="https://buymeacoffee.com/bryce_codes"><button className='btn5'>Buy Me A Cofee</button></a>
-                <a href="github.com/brianali-codes"><button className='btn5'>More Projects</button></a>
+                <a href="https://github.com/brianali-codes"><button className='btn5'>More Projects</button></a>
                 <a href="#HowToUse"><button className='btn5'>How To Use</button></a>
         </div>
            
