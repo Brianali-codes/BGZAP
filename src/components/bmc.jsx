@@ -3,7 +3,7 @@ import React from 'react';
 const BuyMeACoffeeButton = () => {
     return (
         <a 
-            href="https://ko-fi.com/brianalcodes" 
+            href="https://ko-fi.com/brianalicodes" 
             target="_blank" 
             rel="noopener noreferrer"
         >

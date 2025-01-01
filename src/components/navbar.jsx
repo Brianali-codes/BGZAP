@@ -24,7 +24,7 @@ export default function Navbar(){
             </div>
             <div className='gap-5 flex flex-row nav-btns'>
                 <a href="#ABT"><button className='btn'>About</button></a>
-                <a href="https://ko-fi.com/brianalcodes"><button className='btn'>Buy Me A Cofee</button></a>
+                <a href="https://ko-fi.com/brianalicodes"><button className='btn'>Buy Me A Cofee</button></a>
                 <a href="github.com/brianali-codes"><button className='btn'>More Projects</button></a>
                 <a href="#HowToUse"><button className='btn'>How To Use</button></a>
             </div>
@@ -36,7 +36,7 @@ export default function Navbar(){
         <div className={sidebarState} id='sidebar'>
 
                 <a href="#ABT"><button className='btn5'>About</button></a>
-                <a href="https://ko-fi.com/brianalcodes"><button className='btn5'>Buy Me A Cofee</button></a>
+                <a href="https://ko-fi.com/brianalicodes"><button className='btn5'>Buy Me A Cofee</button></a>
                 <a href="https://github.com/brianali-codes"><button className='btn5'>More Projects</button></a>
                 <a href="#HowToUse"><button className='btn5'>How To Use</button></a>
         </div>
